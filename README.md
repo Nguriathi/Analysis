@@ -1,5 +1,9 @@
 # 📈 Enterprise Sales Analytics Platform
 
+    ```
+        https://salesanalytic.streamlit.app/
+
+    ```
 A powerful sales analytics dashboard built with [Streamlit](https://streamlit.io/) that provides real-time insights, trend visualization, and sales forecasting capabilities.
 
 ---
@@ -143,7 +147,7 @@ Distributed under the MIT License.
 
 **Project Maintainer:** Nguriathi
 
-Project Link: 
+Project Link: https://salesanalytic.streamlit.app/
 
 ---
 
